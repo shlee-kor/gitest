@@ -12,10 +12,15 @@
 ***
 
 *single asterisks*
+
 _single undersocres_
+
 **double asterisks**
+
 __double undersocres__
+
 ++underline++
+
 ~~cancelline~~
 
 ```php
