@@ -19,9 +19,9 @@ _single undersocres_
 
 __double undersocres__
 
-++underline++
+<u>underline</u>
 
-~~cancelline~~
+<s>cancelline</s>
 
 ```php
 $new_str = str_replace($old, $new, $str);
