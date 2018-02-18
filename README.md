@@ -9,3 +9,7 @@
 등록된 키 한 번 더 체크
 
 환경설정파일 추가
+
+```php
+$new_str = str_replace($old, $new, $str);
+```
